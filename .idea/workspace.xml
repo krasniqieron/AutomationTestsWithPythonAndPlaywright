@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa4434dd-16a9-49e7-b0d1-a04c21cd8f07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AutomationTestsFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/amazon_shopping.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/basket_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_amazon_shopping.py" afterDir="false" />
-    </list>
+    <list default="true" id="aa4434dd-16a9-49e7-b0d1-a04c21cd8f07" name="Changes" comment="Added the dependency" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +28,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/krasniqieron/AutomationTestsFramework.git",
+    "url": "https://github.com/krasniqieron/AutomationTestsWithPythonAndPlaywright.git",
     "accountId": "2006eba3-767f-412e-b29f-6725a2878005"
   }
 }]]></component>
@@ -86,6 +68,37 @@
       <option name="presentableId" value="Default" />
       <updated>1717178720539</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717180604898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717180604898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Renaming a file">
+      <option name="closed" value="true" />
+      <created>1717180783498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717180783498</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added the dependency">
+      <option name="closed" value="true" />
+      <created>1717180904972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717180904972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Renaming a file" />
+    <MESSAGE value="Added the dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the dependency" />
   </component>
 </project>
